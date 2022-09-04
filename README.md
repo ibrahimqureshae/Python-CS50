@@ -15,6 +15,8 @@ Regular Expressions,
 Object-Oriented Programming,
 Et Cetera.
 
+## Disclaimer
+I have to give the disclaimer, I do provide full solutions here, but if you are here trying to find the code block that will help you pass the tests without thinking, you are wasting your time, and that is sad. It is a much stronger learning experience when it is you who searches, thinks and finds the solution. I am here to talk about the problem sets and to be a helpful guide for different approaches along the way.
 
 ## Problem Sets
 * Problem Set 1
