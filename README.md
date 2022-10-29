@@ -20,6 +20,8 @@ I have to give the disclaimer, I do provide full solutions here, but if you are 
 
 ## Problem Sets
 * Problem Set 1
+  * [Deep Thought](https://cs50.harvard.edu/python/2022/psets/1/)
+  * [Home Federal Savings Bank](https://cs50.harvard.edu/python/2022/psets/1/bank/)
 * Problem Set 2
 * Problem Set 3
 * Problem Set 4
